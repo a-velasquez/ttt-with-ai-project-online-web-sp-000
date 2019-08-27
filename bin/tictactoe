@@ -4,7 +4,7 @@ require_relative '../config/environment'
 
 def play_game
   puts "Welcome to Tic Tac Toe!"
-  puts "Which game mod would you like to play?:
+  puts "Which game mod would you like to play today?:
   0 - AI vs. AI 
   1 - You vs. AI
   2 - You vs. a friend!"
