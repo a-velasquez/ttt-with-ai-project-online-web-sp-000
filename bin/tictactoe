@@ -2,7 +2,7 @@
 
 require_relative '../config/environment'
 
-def play_gamegame
+def play_game
   puts "Welcome to Tic Tac Toe!"
   puts "What kind of game would you like to play?:
   0 - AI vs. AI 
